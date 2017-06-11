@@ -1,0 +1,240 @@
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\csc.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\vbc.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll.config
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.pdb
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Owin.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Cors.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\WebGrease.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.pdb
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.Migrations.InitialCreate.resources
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csproj.GenerateResource.Cache
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.pdb
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.dll
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.xml
+C:\Users\Ming Mac\Desktop\SSD MyCourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csprojResolveAssemblyReference.cache
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\csc.exe
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Collections.Immutable.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Reflection.Metadata.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\vbc.exe
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe.config
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll.config
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.pdb
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Web.Infrastructure.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Owin.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Cors.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\WebGrease.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.pdb
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.xml
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csprojResolveAssemblyReference.cache
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.Migrations.InitialCreate.resources
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csproj.GenerateResource.Cache
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.dll
+C:\SSDcourses\Asp Net\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.pdb
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\csc.exe
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Collections.Immutable.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\System.Reflection.Metadata.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\vbc.exe
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\roslyn\VBCSCompiler.exe.config
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll.config
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\jwt.pdb
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Web.Infrastructure.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Owin.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Cors.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\WebGrease.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Antlr3.Runtime.pdb
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\EntityFramework.SqlServer.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Cors.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.Jwt.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Newtonsoft.Json.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Net.Http.Formatting.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Helpers.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Cors.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Http.Owin.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Mvc.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Optimization.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.Razor.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Deployment.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\System.Web.WebPages.Razor.xml
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\bin\Thinktecture.IdentityModel.Core.pdb
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csprojResolveAssemblyReference.cache
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.Migrations.InitialCreate.resources
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.csproj.GenerateResource.Cache
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.dll
+C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\jwt.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SaveDefaultConnectionXXX-Web.config Connection String" description="SaveDefaultConnectionXXX Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-HPAVD48\SQLEXPRESS;Initial Catalog=Jwt;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\SSD\\AspNet\\14\ day3\ Json\ Web\ Tokens\\jwt_part4\\jwt_part4\\jwt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SaveDefaultConnectionXXX']/@connectionString" />
+  </parameter>
+  <parameter name="jwt.Properties.Settings.Setting-Web.config Connection String" description="jwt.Properties.Settings.Setting Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-HPAVD48\SQLEXPRESS;Initial Catalog=Jwt;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\SSD\\AspNet\\14\ day3\ Json\ Web\ Tokens\\jwt_part4\\jwt_part4\\jwt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='jwt.Properties.Settings.Setting']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=s11.winhost.com;Persist Security Info=True;User ID=DB_110658_jwt_user;Password=JmBcit2015" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\SSD\\AspNet\\14\ day3\ Json\ Web\ Tokens\\jwt_part4\\jwt_part4\\jwt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="jwt.Models.EmailDBContext-Web.config Connection String" description="jwt.Models.EmailDBContext Connection String used in web.config by the application to access the database." defaultValue="jwt.Models.EmailDBContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\SSD\\AspNet\\14\ day3\ Json\ Web\ Tokens\\jwt_part4\\jwt_part4\\jwt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='jwt.Models.EmailDBContext']/@connectionString" />
+  </parameter>
+</parameters>

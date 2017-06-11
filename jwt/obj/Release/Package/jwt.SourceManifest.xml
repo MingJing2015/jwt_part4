@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\SSD\AspNet\14 day3 Json Web Tokens\jwt_part4\jwt_part4\jwt\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
